@@ -1,6 +1,6 @@
 # json-query-string
-[![License][license-image]][license-url]
-[![npm badge][11]][1]
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![npm](https://img.shields.io/npm/dw/localeval.svg)]()
 
 Converts JSON objects to/from a minimal query string format.
 
