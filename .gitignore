@@ -1,0 +1,7 @@
+.idea
+*.js
+*.map
+node_modules
+*.tgz
+*.d.ts
+*.iml

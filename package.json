@@ -1,0 +1,26 @@
+{
+  "name": "json-query-string",
+  "version": "1.0.0",
+  "description": "Converts JSON objects into readable query strings",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "query",
+    "querystring",
+    "url",
+    "qs",
+    "param",
+    "parameter",
+    "uri",
+    "parse",
+    "stringify",
+    "encode",
+    "decode"
+  ],
+  "author": "Scott Johnson",
+  "license": "MIT"
+}
